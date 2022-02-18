@@ -1,0 +1,12 @@
+nil/webparser/entity/AdvertProperty.class
+nil/webparser/dao/AdvertPropertyRepository.class
+nil/webparser/dao/AdvertRepository.class
+nil/webparser/entity/AdvertImage$AdvertImageBuilder.class
+nil/webparser/entity/Advert$AdvertBuilder.class
+nil/webparser/dao/AdvertImageRepository.class
+nil/webparser/entity/Advert.class
+nil/webparser/entity/AdvertProperty$Properties.class
+nil/webparser/entity/Advert$1.class
+nil/webparser/dto/ImageUnit.class
+nil/webparser/entity/AdvertProperty$AdvertPropertyBuilder.class
+nil/webparser/entity/AdvertImage.class

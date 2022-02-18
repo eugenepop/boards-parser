@@ -1,0 +1,12 @@
+<div class="advert-container">
+	{{#adverts}}
+	<p><a href="{{link}}">{{title}}</a></p>
+	<div class = "image-container">
+		{{#transformedImages}}
+		<div class="demo" style="width:{{newWidth}}px; height:{{newHeight}}px; background-image: url({{fileName}});"></div>
+		{{/transformedImages}}
+	</div>
+	<div style="clear:both"></div>
+	<p>{{price}}</p>
+	{{/adverts}}
+</div>

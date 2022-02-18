@@ -1,0 +1,42 @@
+nav ul a {
+    color: #444;
+    font-size: 1rem;
+}
+
+nav .brand-logo {
+    color: #444;
+    font-size: 1.3rem;
+}
+
+p {
+    line-height: 2rem;
+}
+
+.sidenav-trigger {
+    color: #26a69a;
+}
+
+footer.page-footer {
+    margin: 0;
+}
+
+.advert-container {
+    width: 505px;
+    margin-bottom: 10px;
+}
+
+.image-container {
+    width: 505px;
+    height: auto;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.demo{
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    background-position: center;
+    background-size: cover;
+}

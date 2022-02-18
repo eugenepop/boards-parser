@@ -1,0 +1,9 @@
+nil/webparser/service/AdvertPropertyService.class
+nil/webparser/ParserServiceApplication.class
+nil/webparser/service/AdvertService.class
+nil/webparser/parser/ParseScheduler.class
+nil/webparser/config/ParserConfiguration.class
+nil/webparser/converter/AdvertConverter.class
+nil/webparser/parser/AdvertParserManager.class
+nil/webparser/controller/ParserController.class
+nil/webparser/service/SpreadSheetManager.class
